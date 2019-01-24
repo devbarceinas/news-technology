@@ -1,0 +1,7 @@
+{
+  "name": "news-technology",
+  "short_name": "news-technology",
+  "description": "Es una aplicación que mostrara las noticias más relevantes de tecnológia en México",
+  "start_url": "/",
+  "display": "standalone"
+}
